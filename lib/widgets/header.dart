@@ -38,7 +38,7 @@ class HeaderWithSearchBar extends StatelessWidget {
                 CustomWidthSpacer(size: 0.03,),
 
                 Image.asset(
-                  Assets.icons.icSerach.path,
+                  Assets.icons.icMessage.path,
                   width: 15,
                   height: 15,
                 ),
@@ -64,7 +64,7 @@ class HeaderWithSearchBar extends StatelessWidget {
           Spacer(),
 
           Image.asset(
-            Assets.images.cameraIpx.path,
+            Assets.images.user4.path,
             width: 32,
             height: 32,
           ),
